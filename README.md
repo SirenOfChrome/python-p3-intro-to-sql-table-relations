@@ -52,3 +52,5 @@ different types of table relationships that can exist.
 - [Difference between Primary Key and Foreign Key - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-primary-key-and-foreign-key/)
 - [SQL Joins - W3Schools](https://www.w3schools.com/sql/sql_join.asp)
 - [Airtable's guide to many-to-many relationships](https://support.airtable.com/hc/en-us/articles/218734758-Airtable-s-guide-to-many-to-many-relationships)
+- [Practice SQL Queries on SQLBolt](http://sqlbolt.com/lesson/select_queries_review)
+- [dbdiagram.io: ERD Drawing Tool](https://dbdiagram.io)
